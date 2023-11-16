@@ -1,6 +1,6 @@
 package com.ezen.biz;
 
-public class Reply {
+public class play {
 
 	private Long seq;
 	private String subject;
